@@ -1,0 +1,19 @@
+{
+  "name": "codeminds",
+  "version": "1.0.0",
+  "description": "A repository for code learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosteringminds/codeminds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fosteringminds/codeminds/issues"
+  },
+  "homepage": "https://github.com/fosteringminds/codeminds#readme"
+}
